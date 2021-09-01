@@ -13,4 +13,4 @@ Understanding the theory and intuition behind these methods is an essential part
     Use many types of data from real-time streaming to high-dimensional abstractions
     Implement these types of models using a collection of Python* labs
     
-    ![alt text](https://i.ytimg.com/vi/xpllXQCxrgU/maxresdefault.jpg?raw=true)
+![alt text](https://i.ytimg.com/vi/xpllXQCxrgU/maxresdefault.jpg?raw=true)
